@@ -286,6 +286,7 @@ Press rs for restarting the process.
 ```javascript
 const http = require('http')
 const url = require('url') //引入url模块
+const path= require('path') //引入path模块
 
 const hostname = '127.0.0.1'
 const port = 3000
@@ -351,6 +352,7 @@ server.listen(port, hostname, () => {
 ```javascript
 const mime = require('mime');
 
+// mime 2.x lookup 更名为 getType
 mime.lookup('/path/to/file.txt');         // => 'text/plain'
 mime.lookup('file.txt');                  // => 'text/plain'
 mime.lookup('.TXT');                      // => 'text/plain'

@@ -22,16 +22,17 @@
 - Lesson8 - [Node操作数据库](/lesson8)
 - Lesson9 - [Koa快速入门教程](/lesson9)
 - Lesson10 - [Node.js使用Nodemailer发送邮件](/lesson10)
-- Lesson10 - [node爬虫：送你一大波美腿图](/lesson11)
+- Lesson11 - [node爬虫：送你一大波美腿图](/lesson11)
+- Lesson12 - [node打造微信个人号机器人](/lesson12)
 
 ## more
 - [Node相关入门资料](/tutorials)
+- [《Node.js从入门到上线》更新中](https://github.com/liuxing/abc-blog)
 
 
 ## 联系作者
 
-- 邮箱：[ogilhinn@gmail.com](mailto:ogilhinn@gmail.com)
-- 博客: [刘星的博客](http://www.xingxin.me/)
+- 邮箱：[chn.liuxing@gmail.com](mailto:chn.liuxing@gmail.com)
 
 ## 微信公众号：JavaScript之禅 
 ![JavaScript之禅](http://ommpd2lnj.bkt.clouddn.com/qrcode_for_gh_dddbed02f672_344.jpg?imageView2/1/w/200/h/200)
