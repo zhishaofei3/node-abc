@@ -219,6 +219,8 @@ function copy(paths){
     readStream.on('data', function(chunk) {
         progress += chunk.length;
     })
+    
+    readStream.pipe(writeStream)
 
     // 我们添加了一个递归的setTimeout来做一个旁观者
     // 每500ms观察一次完成进度，并把已完成的大小、百分比和复制速度一并写到控制台上
